@@ -1,0 +1,25 @@
+/* element selector */
+body {
+    background-color: darkred;
+    color: black;
+    font-family: verdana, 'Times New Roman', Times, serif;
+}
+.txt-center{ text-align: center;}
+.bg-warning { background-color: red; border-radius: 50px;}
+.txt-black { color: black ; }
+.p-1 { padding: 50px; }
+.m-1 {margin: 100px; }
+
+a:link{
+    color: red;
+}
+
+/* visited link */
+a:active {
+    color: green;
+}
+a:hover{
+    color: hotpink;
+    background-color: yellow;
+    border-radius: 10px;
+}
