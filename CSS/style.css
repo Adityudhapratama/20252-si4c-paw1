@@ -5,13 +5,13 @@ body {
     font-family: verdana, 'Times New Roman', Times, serif;
 }
 .txt-center{ text-align: center;}
-.bg-warning { background-color: red; border-radius: 50px;}
+.bg-warning { background-color: white; border-radius: 50px;}
 .txt-black { color: black ; }
 .p-1 { padding: 50px; }
 .m-1 {margin: 100px; }
 
 a:link{
-    color: red;
+    color: black;
 }
 
 /* visited link */
@@ -19,7 +19,7 @@ a:active {
     color: green;
 }
 a:hover{
-    color: hotpink;
-    background-color: yellow;
+    color: black;
+    background-color: whitesmoke;
     border-radius: 10px;
 }
