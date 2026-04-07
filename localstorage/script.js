@@ -7,3 +7,4 @@ console.log(localStorage.getItem("npm"))
 
 //tampilkan di paragraf id=npm 
 document.getElementById("npm").innerHTML = localStorage.getItem("npm")
+localStorage.getItem("npm")
